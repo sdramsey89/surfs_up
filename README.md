@@ -28,6 +28,9 @@ Below are queries showing the average precipitation for each month. Looking at p
 - Average Precipitation for December<br>
 ![December PRCP](/Resources/dec_prcp.png)
 
+Additionally, I created visualization of monthly Highs, Lows, and averages for the entire year. This visualization helps to expand the analysis and look at temperature ranges for the entire year.<br>
+![Yearly Temps](/Resources/year_temps.png)
+
 ### Addtiontal Required Analysis
 This initial analysis is very limited in scope. Other factors should be researched before opening the shop. Additional questions that should be researched include:
 - Wave patterns in Hawaii: A surf shop needs to know where the best location is for catching waves all year long. Several websites collect data not only on wave size but whether or not the conditions
